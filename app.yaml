@@ -1,0 +1,9 @@
+#runtime: custom
+#env: flex
+
+runtime: python
+env: flex
+entrypoint: python main.py
+
+runtime_config:
+ pyhton_version: 3
